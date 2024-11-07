@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff83fa0a-6ac9-4db2-87a6-50e84acd1ead" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/MIS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MIS.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/MIS.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/ClassDataAccessObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/ClassDataAccessObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/CourseDataAccessObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/CourseDataAccessObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/EvaluationDataAccessObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/EvaluationDataAccessObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/StudentDataAccessObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/StudentDataAccessObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/TeacherDataAccessObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/TeacherDataAccessObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/UserDataAccessObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/UserDataAccessObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/examDataAccessObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/examDataAccessObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/scDataAccessObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/scDataAccessObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/teachingDataAccessObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mis/dao/teachingDataAccessObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mis/servlet/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mis/servlet/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mis/util/util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mis/util/util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/student.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/student.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="MavenRunConfiguration" name="MIS" />
+    </enabled-run-configurations>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="workspaceImportForciblyTurnedOn" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="无" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2oRCNxZuvYUz7B463Ds4jKu1AIG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Maven.MIS.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Smart Tomcat.未命名 (1).executor": "Run",
+    "Smart Tomcat.未命名.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/桌面/MIS",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.49655172",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Smart Tomcat.未命名">
+    <configuration name="MIS" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="未命名" type="com.poratu.idea.plugins.tomcat" nameIsGenerated="true">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="C:\Users\WENYING\.SmartTomcat\MIS\MIS" />
+      <option name="contextPath" value="/mis" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/10.1.31" />
+          <option name="path" value="$PROJECT_DIR$/../../tomcat/apache-tomcat-10.1.31" />
+          <option name="version" value="10.1.31.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="MIS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.MIS" />
+      <item itemvalue="Smart Tomcat.未命名" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ff83fa0a-6ac9-4db2-87a6-50e84acd1ead" name="更改" comment="" />
+      <created>1730822964406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730822964406</updated>
+    </task>
+    <servers />
+  </component>
+</project>
